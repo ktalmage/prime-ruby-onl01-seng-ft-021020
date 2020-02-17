@@ -5,6 +5,7 @@ def prime?(n)
   elsif
   (n..n-1).none? {|num| n % num == 0} 
 end
+true
 end
 
 
