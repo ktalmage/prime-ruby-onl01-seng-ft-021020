@@ -8,7 +8,7 @@ def prime?(n)
 # true
 end
 
-# puts prime?(6)
+puts prime?(3)
 
 
 
