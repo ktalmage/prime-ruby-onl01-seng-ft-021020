@@ -6,7 +6,7 @@ def prime?(n)
 # true
 end
 
-puts prime?(18)
+puts prime?(18000)
 
 
 
