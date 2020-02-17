@@ -8,6 +8,7 @@ end
 true
 end
 
+puts prime?(6)
 
 
 
